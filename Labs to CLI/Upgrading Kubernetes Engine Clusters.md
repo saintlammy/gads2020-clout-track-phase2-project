@@ -2,6 +2,15 @@
 
 ## Lab 2 - Upgrading Kubernetes Engine Clusters
 
+Log in to your Google Cloud account and open Cloud Shell from Google Console. 
+If prompted, click Continue to provision your terminal.
+
+Setup your project with the command below:
+
+`gcloud config set project [project-id]` 
+
+Use a unique project id
+
 ### -- Set up a default project
 Run the following command replacing project-id with your project id
 ``gcloud config set [project-id]``

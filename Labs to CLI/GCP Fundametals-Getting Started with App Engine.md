@@ -2,6 +2,15 @@
 
 ### Lab 1 - GCP Fundamentals: Getting Started with App Engine
 
+Log in to your Google Cloud account and open Cloud Shell from Google Console. 
+If prompted, click Continue to provision your terminal.
+
+Setup your project with the command below:
+
+`gcloud config set project [project-id]` 
+
+Use a unique project id
+
 ### --Initialize App Engine
 ---
 Initialize app engine app with my project and choose its region
