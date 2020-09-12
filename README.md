@@ -14,7 +14,8 @@ Project
 
 2. Qwiklabs
     Names PDF format of **14** qwiklabs done are as follows 
-
+    
+    ```
     a. Recommend Products using ML with Cloud SQL and Dataproc
     b. Predict Visitor Purchases with a Classification Modelwith BigQuery ML
     c. Create a Streaming Data Pipeline for a Real-TimeDashboard with Cloud Dataflow
@@ -29,6 +30,7 @@ Project
     l. Implementing Cloud SQL
     m. Console and Cloud Shell
     n. App Dev: Setting up a Development Environment v1.1
+    ```
 
 
 **Name: Olamide Agboola**
